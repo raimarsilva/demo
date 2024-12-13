@@ -1,0 +1,2 @@
+run javafx application with maven:
+mvn clean javafx:run
